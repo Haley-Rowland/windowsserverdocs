@@ -40,4 +40,4 @@ You can use Windows Admin Center to manage your Azure VMs as well as on-premises
 
 In the network tool, you’ll find the option to add an Azure Network Adapter. This is a virtual NIC that will help you securely connect your local computer to an Azure Virtual Network.
 
-[Learn how to configure a point-to-site VPN connection between an on-premises Windows Server and an Azure Virtual Network in one click](https://blogs.technet.microsoft.com/networking/2018/09/05/azurenetworkadapter/)
+[Learn how to configure a point-to-site VPN connection between an on-premises Windows Server and an Azure Virtual Network in one click](https://techcommunity.microsoft.com/t5/Networking-Blog/Top-10-Networking-Features-in-Windows-Server-2019-3-Azure/ba-p/339780)
